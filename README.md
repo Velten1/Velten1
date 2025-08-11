@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Caio Velten
+# Caio Velten
 
 💻 Desenvolvedor Full Stack focado em soluções claras e funcionais.  
 ⚡ Experiência em React, TypeScript, GraphQL, Node.js e ArangoDB.  
