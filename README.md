@@ -1,7 +1,7 @@
 # Caio Velten
 
 💻 Desenvolvedor Full Stack focado em soluções claras e funcionais.  
-⚡ Experiência em React, TypeScript, GraphQL, Node.js e ArangoDB.  
+⚡ Experiência em React, TypeScript, GraphQL, Node.js e MySQL.  
 🚀 Comprometido com a melhoria contínua e entrega de resultados consistentes.
 
 📫 [LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7) | caioryan.ca@gmail.com
