@@ -4,7 +4,7 @@
 ⚡ Experiência em React, TypeScript, GraphQL, Node.js, MongoDB e MySQL.  
 🚀 Comprometido com a melhoria contínua e entrega de resultados consistentes.
 
-📫 [LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7) | caioryan.ca@gmail.com | [portfólio](caiovelten.dev)
+📫 [LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7) | caioryan.ca@gmail.com | [Portfólio](https://caiovelten.dev/)
 
 ### Frontend
 <div style="display: inline_block"><br>
