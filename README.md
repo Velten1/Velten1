@@ -8,9 +8,7 @@ Aqui você vai encontrar projetos, estudos e experimentos voltados para Desenvol
 1. Análise e Desenvolvimento de Sistemas - Anhanguera Educacional S.A (Cursando)
 2. Inteligência Artificial - FIAP (Cursando)
 
-[LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7)  
-[Portfólio](https://caiovelten.dev/)  
-caioryan.ca@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7) | caioryan.ca@gmail.com | [Portfólio](https://caiovelten.dev/)
 
 ---
 
