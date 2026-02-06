@@ -31,7 +31,6 @@ Aqui você vai encontrar projetos, estudos e experimentos voltados para Desenvol
   <img align="center" alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Express" height="40" width="40" src="https://cdn.simpleicons.org/express">
   <img align="center" alt="GraphQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-  <img align="center" alt="REST API" height="40" width="40" src="https://cdn.simpleicons.org/openapiinitiative">
   <img align="center" alt="Prisma" height="40" width="40" src="https://cdn.simpleicons.org/prisma">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
