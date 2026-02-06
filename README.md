@@ -5,15 +5,14 @@ Aqui você vai encontrar projetos, estudos e experimentos voltados para Desenvol
 
 # Formações Acadêmicas
 
-Análise e Desenvolvimento de Sistemas (ADS) – Em andamento  
-Inteligência Artificial – Em andamento  
+1. Análise e Desenvolvimento de Sistemas - Anhanguera Educacional S.A (Cursando)
+2. Inteligência Artificial - FIAP (Cursando)
 
 [LinkedIn](https://www.linkedin.com/in/caio-velten-1351b22b7)  
 [Portfólio](https://caiovelten.dev/)  
 caioryan.ca@gmail.com  
 
 ---
-
 
 ## Tecnologias e Ferramentas
 
