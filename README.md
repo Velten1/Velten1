@@ -1,6 +1,6 @@
 # Olá, eu sou o Caio Velten
 
-Tenho 21 anos e sou apaixonado por tecnologia e por entender como as coisas realmente funcionam por trás das aplicações.  
+Tenho 22 anos e sou apaixonado por tecnologia e por entender como as coisas realmente funcionam por trás das aplicações.  
 Aqui você vai encontrar projetos, estudos e experimentos voltados para Desenvolvimento Full Stack e boas práticas de engenharia de software.
 
 # Formações Acadêmicas
